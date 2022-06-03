@@ -37,7 +37,11 @@ about:
   summary: Hierarchical tree-like data structures for xarray
   license: Apache-2.0
   license_file: LICENSE
+  doc_url: https://xarray-datatree.readthedocs.io/en/latest
+  dev_url: https://github.com/xarray-contrib/datatree
+
 
 extra:
   recipe-maintainers:
     - andersy005
+    - TomNicholas
